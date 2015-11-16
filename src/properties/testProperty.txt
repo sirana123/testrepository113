@@ -1,2 +1,0 @@
-hello world
-this property file needs to be added to the git repository
